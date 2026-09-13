@@ -20,5 +20,9 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "js-yaml": "^5.4.2"
   }
 }
