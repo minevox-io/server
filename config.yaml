@@ -1,1 +1,22 @@
 # yaml-language-server: $schema: https://minevox.github.io/server/schemas/config.schema.yaml
+
+serverName: "A Minevox Server" # Enter your server name here
+motd: Welcome to my Minevox server! # Enter your server's message of the day here
+serverIP: 0.0.0.0 # Enter your server's IP address here
+serverPort: 443 # Enter your server's port here
+gameMode: survival # Enter the game mode here
+maxPlayers: 20 # Enter the maximum number of players here
+onlineMode: true # Set to true to enable online mode
+worldName: "world" # Enter your world name here
+seed: # Enter your world seed here
+difficulty: normal # Enter the difficulty level here
+worldSize: 199999 # Enter the world size here
+whitelist: false # Set to true to enable whitelist mode
+pvp: true # Set to true to enable player versus player combat
+spawnProtection: 16 # Enter the spawn protection radius here
+enableCheats: false # Set to true to enable cheats
+dayNightCycle: true # Set to true to enable the day-night cycle
+viewDistance: 10 # Enter the view distance here
+tickRate: 20 # Enter the tick rate here
+maxEntities: 200 # Enter the maximum number of entities here
+logLevel: info # Enter the log level here
