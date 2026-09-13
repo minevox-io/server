@@ -16,7 +16,7 @@
   },
   "license": "UNLICENSED",
   "author": "Akshar Singh",
-  "type": "commonjs",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
