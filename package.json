@@ -1,0 +1,24 @@
+{
+  "name": "minevox-server",
+  "version": "1.0.0",
+  "description": "Official minevox server",
+  "keywords": [
+    "minevox",
+    "minevox-server"
+  ],
+  "homepage": "https://github.com/minevox-io/server#readme",
+  "bugs": {
+    "url": "https://github.com/minevox-io/server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minevox-io/server.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Akshar Singh",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
