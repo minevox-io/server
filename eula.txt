@@ -1,0 +1,3 @@
+# By setting eula=true you agree to the Minevox EULA
+# https://minevox.github.io/eula
+eula=true
